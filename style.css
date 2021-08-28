@@ -184,3 +184,12 @@ input::-webkit-inner-spin-button {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
 }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  left: 0;
+  bottom: -1em;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
