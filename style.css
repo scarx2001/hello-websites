@@ -1,0 +1,23 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Space Mono", monospace;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(185, 41%, 84%);
+  min-height: 100vh;
+  position: relative;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
