@@ -172,11 +172,11 @@ input::-webkit-inner-spin-button {
   header {
     margin: 0;
   }
-  .calculator {
+  .calculator-form {
     display: flex;
     gap: 1em;
   }
-  .calculator > * {
+  .calculator-form > * {
     width: 100%;
   }
 }
@@ -187,8 +187,6 @@ input::-webkit-inner-spin-button {
 .attribution {
   font-size: 11px;
   text-align: center;
-  left: 0;
-  bottom: -1em;
 }
 .attribution a {
   color: hsl(228, 46%, 43%);
