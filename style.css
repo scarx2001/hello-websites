@@ -171,9 +171,7 @@ input::-webkit-inner-spin-button {
     display: flex;
     gap: 1em;
   }
-  .result, .input {
-    flex: 1;
-  }
+  .result,
   .input {
     flex: 1;
   }
